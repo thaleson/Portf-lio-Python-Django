@@ -16,9 +16,16 @@
 
 ## Projetos:
 - **Blog**: [Repositório no GitHub](https://github.com/thaleson/Blog)
+  - Desenvolvido com Django, este blog oferece uma plataforma robusta para criar, editar e compartilhar postagens. Adapte-o para suas necessidades e compartilhe suas ideias com o mundo!
+
 - **E-commerce**: [Repositório no GitHub](https://github.com/thaleson/E-commerce)
+  - Uma aplicação de comércio eletrônico construída com Django. Explore a implementação de funcionalidades como carrinho de compras, checkout e gerenciamento de produtos para criar uma experiência de compra online.
+
 - **Agenda Virtual**: [Repositório no GitHub](https://github.com/thaleson/Agenda-virtual)
+  - Uma agenda online desenvolvida em Django para organizar seus compromissos diários. Personalize e gerencie suas tarefas de maneira eficiente.
+
 - **Music Organizer**: [Repositório no GitHub](https://github.com/thaleson/Music-Organizer)
+  - Um organizador de música construído com Django para gerenciar sua biblioteca musical. Classifique, pesquise e desfrute de uma experiência organizada com sua coleção de músicas.
 
 ## Sobre Mim
 Desenvolvedor Django apaixonado, com experiência em Python e Machine Learning. Animado para criar soluções inovadoras e contribuir para projetos de código aberto.
